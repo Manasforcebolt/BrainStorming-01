@@ -8,5 +8,5 @@ Followings are the instructions for completing the problem.
 2.	Give the time required by you to complete every task on the shared google-doc.
 3.	Give a workflow for your task on the shared google-doc.  
 4.	Document the whole project coding part on your IDE (preferably google Collab).
-5.	After completing the project upload the same on thi github repository
+5.	After completing the project upload the same on this github repository creating your own branch.
 
