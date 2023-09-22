@@ -1,7 +1,7 @@
 # BrainStorming-01
 
-<h4 Hello everyone,
-Welcome to this Brainstorming Exercise-01, by 11:30AM you all will get a shared Doc file. There will be an open exercise in the document. You must solve and make best out of you and from the problem to complete the task. >
+Hello everyone,
+Welcome to this Brainstorming Exercise-01, by 11:30AM you all will get a shared Doc file. There will be an open exercise in the document. You must solve and make best out of you and from the problem to complete the task.
 
 Followings are the instructions for completing the problem.
 1.	Divide the problem into sub-tasks.
